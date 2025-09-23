@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/minhuiiy/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/minhuiiy/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0165-compare-version-numbers](https://github.com/minhuiiy/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/minhuiiy/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/minhuiiy/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/minhuiiy/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
