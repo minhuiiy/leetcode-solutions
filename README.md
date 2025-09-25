@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/minhuiiy/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/minhuiiy/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/minhuiiy/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/minhuiiy/leetcode-solutions/tree/master/0016-3sum-closest) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/minhuiiy/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/minhuiiy/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/minhuiiy/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0165-compare-version-numbers](https://github.com/minhuiiy/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 ## Greedy
 |  |
@@ -51,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/minhuiiy/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/minhuiiy/leetcode-solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
