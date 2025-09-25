@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/minhuiiy/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0120-triangle](https://github.com/minhuiiy/leetcode-solutions/tree/master/0120-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/minhuiiy/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/minhuiiy/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/minhuiiy/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0120-triangle](https://github.com/minhuiiy/leetcode-solutions/tree/master/0120-triangle) |
 ## Two Pointers
 |  |
 | ------- |
