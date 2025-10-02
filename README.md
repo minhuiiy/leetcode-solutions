@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/minhuiiy/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0830-largest-triangle-area](https://github.com/minhuiiy/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/minhuiiy/leetcode-solutions/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/minhuiiy/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 ## Trie
 |  |
 | ------- |
@@ -116,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/minhuiiy/leetcode-solutions/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/minhuiiy/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
