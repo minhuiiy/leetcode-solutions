@@ -11,9 +11,8 @@
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode dummy = new ListNode(-1);
-        ListNode current = dummy;
+        ListNode current  = dummy;
 
-        // So sanh từng cặp nút
         while(list1 != null && list2 != null) {
             if(list1.val <= list2.val) {
                 current.next = list1;
@@ -27,7 +26,7 @@ class Solution {
 
         if(list1 != null) {
             current.next = list1;
-        }else {
+        } else {
             current.next = list2;
         }
 
