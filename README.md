@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/minhuiiy/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/minhuiiy/leetcode-solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/minhuiiy/leetcode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/minhuiiy/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0120-triangle](https://github.com/minhuiiy/leetcode-solutions/tree/master/0120-triangle) |
 | [0611-valid-triangle-number](https://github.com/minhuiiy/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/minhuiiy/leetcode-solutions/tree/master/0830-largest-triangle-area) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/minhuiiy/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/minhuiiy/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/minhuiiy/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/minhuiiy/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0165-compare-version-numbers](https://github.com/minhuiiy/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/minhuiiy/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Greedy
