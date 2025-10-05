@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/minhuiiy/leetcode-solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/minhuiiy/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/minhuiiy/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/minhuiiy/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0120-triangle](https://github.com/minhuiiy/leetcode-solutions/tree/master/0120-triangle) |
 | [0611-valid-triangle-number](https://github.com/minhuiiy/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/minhuiiy/leetcode-solutions/tree/master/0830-largest-triangle-area) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/minhuiiy/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/minhuiiy/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Stack
 |  |
