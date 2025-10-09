@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/minhuiiy/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/minhuiiy/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/minhuiiy/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/minhuiiy/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0120-triangle](https://github.com/minhuiiy/leetcode-solutions/tree/master/0120-triangle) |
 | [0611-valid-triangle-number](https://github.com/minhuiiy/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/minhuiiy/leetcode-solutions/tree/master/0830-largest-triangle-area) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/minhuiiy/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/minhuiiy/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0611-valid-triangle-number](https://github.com/minhuiiy/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/minhuiiy/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 ## Stack
