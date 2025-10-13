@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/minhuiiy/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/minhuiiy/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/minhuiiy/leetcode-solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/minhuiiy/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0165-compare-version-numbers](https://github.com/minhuiiy/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/minhuiiy/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Dynamic Programming
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/minhuiiy/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/minhuiiy/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/minhuiiy/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/minhuiiy/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0830-largest-triangle-area](https://github.com/minhuiiy/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/minhuiiy/leetcode-solutions/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/minhuiiy/leetcode-solutions/tree/master/3336-water-bottles-ii) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/minhuiiy/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [1642-water-bottles](https://github.com/minhuiiy/leetcode-solutions/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/minhuiiy/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/minhuiiy/leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
