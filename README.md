@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/minhuiiy/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/minhuiiy/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/minhuiiy/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/minhuiiy/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0120-triangle](https://github.com/minhuiiy/leetcode-solutions/tree/master/0120-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/minhuiiy/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Recursion
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/minhuiiy/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/minhuiiy/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/minhuiiy/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/minhuiiy/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0120-triangle](https://github.com/minhuiiy/leetcode-solutions/tree/master/0120-triangle) |
 | [0611-valid-triangle-number](https://github.com/minhuiiy/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/minhuiiy/leetcode-solutions/tree/master/0830-largest-triangle-area) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/minhuiiy/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/minhuiiy/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/minhuiiy/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0611-valid-triangle-number](https://github.com/minhuiiy/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/minhuiiy/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
