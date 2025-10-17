@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/minhuiiy/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0165-compare-version-numbers](https://github.com/minhuiiy/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/minhuiiy/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/minhuiiy/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/minhuiiy/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0120-triangle](https://github.com/minhuiiy/leetcode-solutions/tree/master/0120-triangle) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/minhuiiy/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Recursion
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/minhuiiy/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/minhuiiy/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
