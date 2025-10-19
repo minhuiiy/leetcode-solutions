@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/minhuiiy/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0165-compare-version-numbers](https://github.com/minhuiiy/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/minhuiiy/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Dynamic Programming
 |  |
@@ -239,4 +240,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Depth-First Search
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
