@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/minhuiiy/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/minhuiiy/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/minhuiiy/leetcode-solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/minhuiiy/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/minhuiiy/leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/minhuiiy/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/minhuiiy/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/minhuiiy/leetcode-solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/minhuiiy/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Backtracking
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/minhuiiy/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/minhuiiy/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/minhuiiy/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/minhuiiy/leetcode-solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -233,10 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/minhuiiy/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/minhuiiy/leetcode-solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/minhuiiy/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/minhuiiy/leetcode-solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/minhuiiy/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/minhuiiy/leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
