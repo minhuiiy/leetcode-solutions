@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/minhuiiy/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/minhuiiy/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/minhuiiy/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/minhuiiy/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0120-triangle](https://github.com/minhuiiy/leetcode-solutions/tree/master/0120-triangle) |
 | [0611-valid-triangle-number](https://github.com/minhuiiy/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/minhuiiy/leetcode-solutions/tree/master/0830-largest-triangle-area) |
