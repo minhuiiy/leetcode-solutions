@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/minhuiiy/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/minhuiiy/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/minhuiiy/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/minhuiiy/leetcode-solutions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/minhuiiy/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/minhuiiy/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/minhuiiy/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/minhuiiy/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/minhuiiy/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/minhuiiy/leetcode-solutions/tree/master/0067-add-binary) |
 | [0830-largest-triangle-area](https://github.com/minhuiiy/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/minhuiiy/leetcode-solutions/tree/master/1642-water-bottles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/minhuiiy/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/minhuiiy/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/minhuiiy/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/minhuiiy/leetcode-solutions/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/minhuiiy/leetcode-solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3336-water-bottles-ii](https://github.com/minhuiiy/leetcode-solutions/tree/master/3336-water-bottles-ii) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/minhuiiy/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/minhuiiy/leetcode-solutions/tree/master/0067-add-binary) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sliding Window
 |  |
