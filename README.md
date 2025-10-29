@@ -300,11 +300,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/minhuiiy/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/minhuiiy/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/minhuiiy/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/minhuiiy/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Enumeration
 |  |
@@ -327,8 +329,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/minhuiiy/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/minhuiiy/leetcode-solutions/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/minhuiiy/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/minhuiiy/leetcode-solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
