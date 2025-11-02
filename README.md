@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/minhuiiy/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/minhuiiy/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/minhuiiy/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/minhuiiy/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/minhuiiy/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/minhuiiy/leetcode-solutions/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/minhuiiy/leetcode-solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/minhuiiy/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/minhuiiy/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/minhuiiy/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/minhuiiy/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/minhuiiy/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/minhuiiy/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/minhuiiy/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/minhuiiy/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Counting
 |  |
 | ------- |
