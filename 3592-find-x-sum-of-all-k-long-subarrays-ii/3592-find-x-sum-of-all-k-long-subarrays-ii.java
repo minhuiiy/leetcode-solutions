@@ -6,12 +6,11 @@ class Solution {
         final int freq;
         Pair(int v, int f) { val = v; freq = f; }
     }
-    // So sánh: freq desc, rồi val desc
     static final class ByStrength implements Comparator<Pair> {
         @Override public int compare(Pair a, Pair b) {
             if (a.freq != b.freq) return Integer.compare(b.freq, a.freq);
             if (a.val  != b.val ) return Integer.compare(b.val,  a.val );
-            return 0; // mỗi (val,freq) là duy nhất trong set
+            return 0; 
         }
     }
 
@@ -34,11 +33,9 @@ class Solution {
 
         long[] ans = new long[n - k + 1];
 
-        // Khởi tạo cửa sổ đầu
         for (int i = 0; i < k; i++) add(nums[i]);
         ans[0] = sumTop;
 
-        // Trượt cửa sổ
         for (int i = k; i < n; i++) {
             remove(nums[i - k]);
             add(nums[i]);
@@ -67,7 +64,7 @@ class Solution {
 
     private void remove(int v) {
         int old = cnt.getOrDefault(v, 0);
-        if (old == 0) return;                 // an toàn
+        if (old == 0) return;                 
         Pair pOld = new Pair(v, old);
         if (inTop.contains(v)) {
             top.remove(pOld);
@@ -88,14 +85,12 @@ class Solution {
     }
 
     private void rebalance() {
-        // Lấp đầy top tới x
         while (top.size() < x && !rest.isEmpty()) {
-            Pair best = rest.pollFirst();     // mạnh nhất rest
+            Pair best = rest.pollFirst();   
             top.add(best);
             inTop.add(best.val);
             sumTop += 1L * best.val * best.freq;
         }
-        // Hoán đổi khi rest có phần mạnh hơn phần yếu nhất top
         while (!top.isEmpty() && !rest.isEmpty()) {
             Pair bestRest = rest.first();
             Pair worstTop = top.last();
