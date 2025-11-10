@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/minhuiiy/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/minhuiiy/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/minhuiiy/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/minhuiiy/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/minhuiiy/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Geometry
 |  |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/minhuiiy/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/minhuiiy/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/minhuiiy/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/minhuiiy/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/minhuiiy/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/minhuiiy/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/minhuiiy/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/minhuiiy/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/minhuiiy/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/minhuiiy/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/minhuiiy/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/minhuiiy/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
