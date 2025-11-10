@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/minhuiiy/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/minhuiiy/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/minhuiiy/leetcode-solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/minhuiiy/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/minhuiiy/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/minhuiiy/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/minhuiiy/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/minhuiiy/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/minhuiiy/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/minhuiiy/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/minhuiiy/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/minhuiiy/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/minhuiiy/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/minhuiiy/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
